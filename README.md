@@ -1,2 +1,3 @@
 # git_test
-Git Testing w/ Github
+My first github repo with #Odin
+Hello Odin
